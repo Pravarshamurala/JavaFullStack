@@ -1,0 +1,31 @@
+|<html>
+
+<head>
+
+<body>
+
+<form>
+
+<h1 style="color: blue;"" align="center">LOGINFORM</h1>
+
+<fieldset>
+
+<p><label>UserName: </label>
+
+<input type=""text"name=""id=""required placeholder=""username"></p>
+
+<p><label>Password: </label>
+
+<input type=""text"name=""id=""required placeholder=""Password"></p>
+
+<button type=""submit">login</button>
+
+</fieldset>
+
+</form>
+
+</body>
+
+</head>
+
+</html>
