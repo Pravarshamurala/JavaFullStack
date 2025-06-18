@@ -516,3 +516,7 @@ output:
 ****4
 *****5
 */
+/*
+20.class Pattern1{
+public static void main(String[] args){  
+
